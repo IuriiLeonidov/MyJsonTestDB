@@ -1,0 +1,64 @@
+{
+  "killers": [
+    {
+      "id": 1,
+      "character": "The Trapper",
+      "name": "Evan MacMillan",
+      "description": "Armed with a bag of Bear Traps, The Trapper specializes in catching unsuspecting Survivors. By placing traps in high-traffic areas and thick patches of grass, he creates a deadly area that forces Survivors to move with caution. When dealing with The Trapper, a simple misstep can prove fatal.",
+      "avatar": "/images/avatars/the_trapper.png",
+      "difficulty": "Easy",
+      "movement_speed": "4.6",
+      "terror_radius": "32",
+      "perks": [
+        "Unnerving Presence",
+        "Brutal Strength",
+        "Agitation"
+      ]
+    },
+    {
+      "id": 2,
+      "character": "The Wraith",
+      "name": "Philip Ojomo",
+      "description": "Using his Wailing Bell to render himself invisible, The Wraith tracks his prey and strikes with little warning. Upon hearing the Bell’s fateful chime, Survivors must think fast or suffer the consequences. A hit-and-run specialist, The Wraith is adept at keeping everybody injured.",
+      "avatar": "/images/avatars/the_wraith.png",
+      "difficulty": "Easy",
+      "movement_speed": "4.6",
+      "terror_radius": "32",
+      "perks": [
+        "Predator",
+        "Bloodhound",
+        "Shadowborn"
+      ]
+    },
+    {
+      "id": 3,
+      "character": "The Hillbilly",
+      "name": "Max Thompson",
+      "description": "The sound of a revving motor, followed by a bloodthirsty scream of rage. The Hillbilly isn’t exactly subtle, but he makes up for it in brutal efficiency. Capable of traversing great distances at a rapid pace, those in his path will be rudely introduced to one-hundred gnashing chainsaw blades.",
+      "avatar": "/images/avatars/the_hillbilly.png",
+      "difficulty": "Medium",
+      "movement_speed": "4.6",
+      "terror_radius": "32",
+      "perks": [
+        "Enduring",
+        "Lightborn",
+        "Tinkerer"
+      ]
+    },
+    {
+      "id": 4,
+      "character": "The Nurse",
+      "name": "Sally Smithson",
+      "description": "Using her Blink ability, The Nurse can teleport great distances in moments, predicting and cutting off Survivor routes. A powerful process best honed by experience, careless Blinks are punished with a wave of fatigue. The epitome of high risk, high reward, The Nurse can end chases with surgical precision.",
+      "avatar": "/images/avatars/the_nurse.png",
+      "difficulty": "Very Hard",
+      "movement_speed": "3.85",
+      "terror_radius": "32",
+      "perks": [
+        "Stridor",
+        "Thanatophobia",
+        "A Nurse's Calling"
+      ]
+    }
+  ]
+}
